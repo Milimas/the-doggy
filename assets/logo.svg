@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234" height="73.404" viewBox="0 0 234 73.404">
+  <g id="logo" transform="translate(-100 -37.5)">
+    <text id="AmineBQ" transform="translate(187 89)" fill="#68afff" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Amine</tspan><tspan y="0" fill="#5cbf1b">BQ</tspan></text>
+    <g id="Logo-2" data-name="Logo" transform="translate(-778 -64.5)">
+      <path id="Polygon_1" data-name="Polygon 1" d="M12.976,0,25.952,22.3H0Z" transform="translate(878 102)" fill="#5cbf1b"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M12.976,0,25.952,22.3H0Z" transform="translate(929.048 102)" fill="#5cbf1b"/>
+      <path id="Polygon_3" data-name="Polygon 3" d="M12.976,0,25.952,22.3H0Z" transform="translate(929.476 146.137) rotate(180)" fill="#5cbf1b"/>
+      <path id="Polygon_4" data-name="Polygon 4" d="M12.976,0,25.952,22.3H0Z" transform="translate(955 146.137) rotate(180)" fill="#5cbf1b"/>
+      <path id="Polygon_5" data-name="Polygon 5" d="M12.976,0,25.952,22.3H0Z" transform="translate(903.952 146.137) rotate(180)" fill="#5cbf1b"/>
+      <path id="Polygon_6" data-name="Polygon 6" d="M12.976,0,25.952,22.3H0Z" transform="translate(916.946 167.812) rotate(180)" fill="#5cbf1b"/>
+      <path id="Polygon_7" data-name="Polygon 7" d="M12.976,0,25.952,22.3H0Z" transform="translate(942.006 167.812) rotate(180)" fill="#5cbf1b"/>
+      <path id="Polygon_8" data-name="Polygon 8" d="M12.976,0,25.952,22.3H0Z" transform="translate(903.524 153.101)" fill="#5cbf1b"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="5.22" height="5.22" transform="translate(903.501 135.011) rotate(45)" fill="#5cbf1b"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="5.22" height="5.22" transform="translate(929.176 135.011) rotate(45)" fill="#5cbf1b"/>
+    </g>
+  </g>
+</svg>
